@@ -11,10 +11,10 @@ export interface Experience {
 export const experienceData: Experience[] = [
   {
     date: "July.2024 - Present",
-    title: "Artificial Intelligence Talent Cultivation Program (AITC)",
+    title: "Undergaduate research",
     company: "AI System Lab",
+    advisor: "with <link href=\"https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=170\" rel=\"Asst. Prof. Chia-Chi Tsai\" />",
     description:
-      "Computer Vision, Machine Learning, AI-based Vision Application",
-    advisor: "Asst. Prof. Chia-Chi Tsai",
+    "Artificial Intelligence Talent Cultivation Program (AITC)",
   },
 ];
