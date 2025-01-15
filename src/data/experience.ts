@@ -1,7 +1,7 @@
 export interface Experience {
   date: string;
   title: string;
-  company: string;
+  company?: string;
   description?: string;
   advisor?: string;
   manager?: string;
@@ -13,8 +13,14 @@ export const experienceData: Experience[] = [
     date: "July.2024 - Present",
     title: "Undergaduate research",
     company: "AI System Lab",
-    advisor: "with <link href=\"https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=170\" rel=\"Asst. Prof. Chia-Chi Tsai\" />",
+    advisor: "with Asst. Prof. Chia-Chi Tsai",
     description:
     "Artificial Intelligence Talent Cultivation Program (AITC)",
+  },
+  {
+    date: "July.2024",
+    title: "Taipei City Mayor Award",
+    description:
+    "Highest distinction, Top 1% graduates",
   },
 ];
