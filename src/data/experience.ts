@@ -12,7 +12,7 @@ export const experienceData: Experience[] = [
   {
     date: "July.2024 - Present",
     title: "Undergaduate research",
-    company: "AI System Lab",
+    company: "NCKU AI System Lab",
     advisor: "with Asst. Prof. Chia-Chi Tsai",
     description:
     "Artificial Intelligence Talent Cultivation Program (AITC)",
