@@ -22,7 +22,8 @@ export const aboutMe: AboutMe = {
   title: "A Undergraduate Student",
   institution: "National Yang Ming Chiao Tung University",
   // Note that links work in the description
-  description: "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
+  description: 
+    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
   // 'I am Po-Chih Wu (§d¬f§Ó), a first-year undergraduate student in <a href="https://imf.nycu.edu.tw/">Information Management and Finance</a> at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a>. I am conducting undergraduate research about machine learning, advised by <a href="https://www.ee.ncku.edu.tw/teacher/index2.php?teacher_id=170">Chia-Chi Tsai</a> in AI System Lab, <a href="https://www.ee.ncku.edu.tw/">Department of Electrical Engineering</a>, <a href="https://www.ncku.edu.tw/">National Cheng Kung University</a>. My research interests focus on computer vision.',
   email: "pochihwu1118@gmail.com",
   imageUrl:
