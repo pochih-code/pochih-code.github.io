@@ -20,7 +20,8 @@ export const experienceData: Experience[] = [
   {
     date: "July.2024",
     title: "Taipei City Mayor Award",
+    company: "Taipei City Government",
     description:
-    "Highest distinction, Top 1% graduates",
+    "Highest Distinction, Top 1% Graduates",
   },
 ];

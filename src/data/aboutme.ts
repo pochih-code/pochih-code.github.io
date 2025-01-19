@@ -23,10 +23,10 @@ export const aboutMe: AboutMe = {
   institution: "National Yang Ming Chiao Tung University",
   // Note that links work in the description
   description:
-    "None",
+    "I am Po-Chih Wu (§d¬f§Ó), a first-year undergraduate student in [Information Management and Finance](https://imf.nycu.edu.tw/) at National Yang Ming Chiao Tung University. I am conducting undergraduate research about machine learning, advised by Chia-Chi Tsai in AI System Lab, Department of Electrical Engineering, National Cheng Kung University. My research interests focus on computer vision.",
   email: "pochihwu1118@gmail.com",
   imageUrl:
-    "https://github.com/pochih-code/pochih-code.github.io/tree/main/src/data/miku.png",
+    "https://github.com/pochih-code/pochih-code.github.io/blob/main/src/data/miku.png?raw=true",
   // googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
   githubUsername: "pochih-code",
   // linkedinUsername: "janesmith",
