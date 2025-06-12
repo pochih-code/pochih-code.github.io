@@ -13,19 +13,19 @@ export interface Publication {
 
 export const publicationData: Publication[] = [
   // If you don't want to show publications, just make the array empty.
-  /*{
-    year: "2024",
-    conference: "NeurIPS",
-    title: "Scalable Causal Discovery in High-Dimensional Time Series",
-    authors: "Jane Smith, Sarah Johnson, Yue Zhang",
-    paperUrl: "https://arxiv.org/abs/2409.15476",
-    codeUrl: "https://github.com/jsmith/scalable-causal-discovery",
+  {
+    year: "2025",
+    conference: "",
+    title: "Evaluating the Performance of Open-Vocabulary Object Detection in Low-quality Image",
+    authors: "Po-Chih Wu, Chia-Chi Tsai",
+    paperUrl: "",
+    codeUrl: "https://github.com/pochih-code/Low-quality-image-dataset",
     //bibtex: "https://arxiv.org/abs/2409.15476.bib",
-    tldr: "Using causal discovery to find the causal structure of high-dimensional time series data.",
+    tldr: " In this study, we aim to evaluate the performance of existing models on open-vocabulary object detection tasks under low-quality image conditions.",
     imageUrl:
-      "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    award: "???? Best Paper Award",
+      "https://storage.googleapis.com/kaggle-datasets-images/7424982/11820620/ab92f283a1415c330b46a0458dc66d0e/dataset-cover.png?t=2025-05-17-13-30-52",
+    award: "",
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
-  },*/
+  },
 ];
