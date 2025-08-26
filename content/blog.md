@@ -2,6 +2,7 @@
 title = "Blog"
 +++
 
+- [Aug. 26, 2025 Life Diary](https://home.gamer.com.tw/artwork.php?sn=6200643)
 - [Aug. 17, 2025 Life Diary](https://home.gamer.com.tw/artwork.php?sn=6196009)
 - [Aug. 07, 2025 Life Diary](https://home.gamer.com.tw/artwork.php?sn=6190202)
 - [Jul. 28, 2025 Life Diary](https://home.gamer.com.tw/artwork.php?sn=6184427)

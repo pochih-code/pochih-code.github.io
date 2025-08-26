@@ -4,9 +4,32 @@ title = "Hobby"
 
 ## Animation
 
-## Novel
+### 2025
 
-- 青春ブタ野郎
-- Gun Gale Online
+- Summer
+
+| Category    | Work                                     | Score        |
+| ----------- | ---------------------------------------- | ------------ |
+| Watching    |                                          |		        |
+| Catching Up |                                          |              |
+| Dropped     |                                          |              |
+
+- Spring
+
+| Category    | Work | Score |
+| ----------- | ---- | ----- |
+| Watching    |      |       |
+| Catching Up |      |       |
+| Dropped     |      |       |
+
+---
+
+- Winter
+
+| Category    | Work | Score |
+| ----------- | ---- | ----- |
+| Watching    |      |       |
+| Catching Up |      |       |
+| Dropped     |      |       |
 
 ## Music
