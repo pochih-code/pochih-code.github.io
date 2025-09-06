@@ -19,7 +19,7 @@ Artificial Intelligence, Mathematical Statistics, Database System
 - Jun. 2024 ~ Jun. 2025
 - Artificial Intelligence Talent Cultivation Program
 - Introduced a low-quality image dataset and evaluated state-of-the-art open-vocabulary object detection models under degraded image conditions
-- [[Github]](https://github.com/pochih-code/Low-quality-image-dataset) [[Kaggle]](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset) [[Google Drive]](https://drive.google.com/file/d/1-w432b79T6Tj_bhkrFal_fVVLC4eE79t) [[Working Paper]](blog\data\LQimgae_eassy.pdf)
+- [[Github]](https://github.com/pochih-code/Low-quality-image-dataset) [[Kaggle]](https://www.kaggle.com/datasets/pochihwu/low-quality-image-dataset) [[Google Drive]](https://drive.google.com/file/d/1-w432b79T6Tj_bhkrFal_fVVLC4eE79t) [[Working Paper]](https://github.com/pochih-code/pochih-code.github.io/blob/main/data/LQimgae_WorkingPaper.pdf)
 
 ## Awards and Scholarship
 
