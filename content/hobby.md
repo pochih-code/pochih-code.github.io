@@ -10,7 +10,8 @@ title = "Hobby"
 
 | Category    | Work                                     | Score        |
 | ----------- | ---------------------------------------- | ------------ |
-| Watching    |                                          |		        |
+| Watching    | 青春ブタ野郎はサンタクロースの夢を見ない
+ |		|
 | Catching Up |                                          |              |
 | Dropped     |                                          |              |
 
