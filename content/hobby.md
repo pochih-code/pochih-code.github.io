@@ -11,9 +11,10 @@ title = "Hobby"
 ### Paper I/0
 - Here are my notes on the papers I have read
 
-**Mobile Computational Photography: A Tour**
-- [[Slide]](https://github.com/pochih-code/pochih-code.github.io/blob/main/data/Presentation_Mobile Computational Photography A Tour.pdf) [[Video]](https://www.youtube.com/watch?v=57O2FKBWNIQ)
-**Object Detection for Comics using Manga109 Annotations**
+[1] **Mobile Computational Photography: A Tour**
+- [[Video]](https://www.youtube.com/watch?v=57O2FKBWNIQ) [[Slide]](https://pochih-code.github.io/files/CP.pdf)
+
+[2] **Object Detection for Comics using Manga109 Annotations**
 - [[HackMD]](https://hackmd.io/@Puchi1118/H1C264Tnee)
 ### Coding
 - Python Program Language
