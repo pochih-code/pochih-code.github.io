@@ -6,31 +6,21 @@ title = "Hobby"
 
 ### 2025
 
-- Summer
+## Note-taking
 
-| Category    | Work                                     | Score        |
-| ----------- | ---------------------------------------- | ------------ |
-| Watching    | 青春ブタ野郎はサンタクロースの夢を見ない
- |		|
-| Catching Up |                                          |              |
-| Dropped     |                                          |              |
+### Paper I/0
+- Here are my notes on the papers I have read
 
-- Spring
+**Mobile Computational Photography: A Tour**
+- [[Slide]](https://github.com/pochih-code/pochih-code.github.io/blob/main/data/Presentation_Mobile Computational Photography A Tour.pdf) [[Video]](https://www.youtube.com/watch?v=57O2FKBWNIQ)
+**Object Detection for Comics using Manga109 Annotations**
+- [[HackMD]](https://hackmd.io/@Puchi1118/H1C264Tnee)
+### Coding
+- Python Program Language
+[[HackMD]](https://hackmd.io/@Puchi1118/rJsWG9_0s)
 
-| Category    | Work | Score |
-| ----------- | ---- | ----- |
-| Watching    |      |       |
-| Catching Up |      |       |
-| Dropped     |      |       |
+- git Guide
+[[HackMD]](https://hackmd.io/@Puchi1118/Hk3wkspR6)
 
----
-
-- Winter
-
-| Category    | Work | Score |
-| ----------- | ---- | ----- |
-| Watching    |      |       |
-| Catching Up |      |       |
-| Dropped     |      |       |
-
-## Music
+- Machine Learning Lecture
+[[Handouts]](https://github.com/pochih-code/ML-Note)
